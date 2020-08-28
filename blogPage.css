@@ -1,0 +1,57 @@
+.blog-content{
+    height:100px;
+    min-width: 450px;
+    font-size:14pt;
+}
+
+input, button{
+    color: #1d1b1b;
+    padding: 10px 40px;
+    position: relative;
+    background-color: #fff2fd;
+    border-radius: 5px;
+  }
+  
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+
+
+.new-blog-form{
+    min-width: 450px;
+    text-align: center;
+    background-color: #ecdfea;
+    box-shadow: 5px 6px 30px -10px #24292e;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+label{
+    font-size: large;
+}
+
+
+
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    position: relative;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.8);
+}
+
